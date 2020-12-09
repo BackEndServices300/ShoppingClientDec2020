@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ShoppingClient"
+  "defaultProject": "ShoppingClient",
+  "cli": {
+    "analytics": "b4df26cf-599f-434d-bf9a-1c99deabe493"
+  }
 }
